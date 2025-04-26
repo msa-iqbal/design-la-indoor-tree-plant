@@ -13,4 +13,4 @@ This is a fully responsive website for showcasing indoor plants, built using **T
 
 ## Demo
 
-You can view the live demo of the project [here](#).
+You can view the live demo of the project [here](https://temp-plant-web.netlify.app).
